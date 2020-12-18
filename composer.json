@@ -1,0 +1,15 @@
+{
+    "name": "koen/opening-hours-library",
+    "description": "Provides logic to implement Opening Hours on your website",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Koen de Bont",
+            "email": "koen-debont@hotmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    }
+}
