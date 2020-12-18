@@ -1,6 +1,10 @@
 # OpeningHours Library
 The OpeningHours library is used to implement opening hours logic and validation for your project.
 
+## Requirements
+
+- PHPUnit 9
+
 ## Installation
 Using Composer
 ```composer log
