@@ -3,7 +3,7 @@ The OpeningHours library is used to implement opening hours logic and validation
 
 ## Requirements
 
-- PHPUnit 9
+- phpunit/phpunit:^9
 
 ## Installation
 Using Composer
