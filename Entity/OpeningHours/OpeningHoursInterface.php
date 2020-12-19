@@ -1,5 +1,9 @@
 <?php
 
+namespace Koen\OpeningHoursLibrary\Entity\OpeningHours;
+
+use DateTimeInterface;
+
 interface OpeningHoursInterface
 {
     public function setOpeningTime(DateTimeInterface $openAt): void;

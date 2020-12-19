@@ -68,7 +68,7 @@ Instantiate validator classes directly.
 ```php
 $openingHours = new OpeningHoursWithBreaks();
 
-$validator = new OpeningHoursValidator();
+$validator = new ValidateOpeningHours();
 $validator->validate($openingHours);
 
 $validator = new PauseValidator();

@@ -1,5 +1,9 @@
 <?php
 
+namespace Koen\OpeningHoursLibrary\Entity\OpeningHours\Pause;
+
+use DateTimeInterface;
+
 class Pause implements PauseInterface
 {
     private $startTime;

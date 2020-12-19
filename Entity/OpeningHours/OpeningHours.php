@@ -1,5 +1,9 @@
 <?php
 
+namespace Koen\OpeningHoursLibrary\Entity\OpeningHours;
+
+use DateTimeInterface;
+
 class OpeningHours implements OpeningHoursInterface
 {
     /** @var DateTimeInterface */

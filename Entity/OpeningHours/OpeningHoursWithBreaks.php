@@ -1,5 +1,9 @@
 <?php
 
+namespace Koen\OpeningHoursLibrary\Entity\OpeningHours;
+
+use Koen\OpeningHoursLibrary\Entity\OpeningHours\Pause\PauseInterface;
+
 class OpeningHoursWithBreaks extends OpeningHours implements OpeningHoursWithBreaksInterface
 {
     /** @var PauseInterface[]  */
